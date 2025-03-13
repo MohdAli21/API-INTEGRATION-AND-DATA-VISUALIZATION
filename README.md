@@ -86,3 +86,6 @@ This project has numerous real-world applications across various domains:
 
 This task provides valuable experience in API integration, data processing, and visualization, which are critical skills in various fields, including software development, data science, and research. By successfully implementing this project, one gains practical knowledge of handling APIs, structuring data, and representing insights visually. The project is an excellent stepping stone for further advancements in data analytics and automation.
 
+
+*OUTPUT:
+
