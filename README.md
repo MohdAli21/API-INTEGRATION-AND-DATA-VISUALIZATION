@@ -95,4 +95,9 @@ This task provides valuable experience in API integration, data processing, and 
 
 
 
+
+
+
+
+
 ![Image](https://github.com/user-attachments/assets/4208e1df-c124-4ac8-a70b-95664a875f3c)
